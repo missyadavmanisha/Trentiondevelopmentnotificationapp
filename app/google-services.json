@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "330490166055",
+    "firebase_url": "https://trentiondevelopment.firebaseio.com",
+    "project_id": "trentiondevelopment",
+    "storage_bucket": "trentiondevelopment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330490166055:android:5e178c3bd87f5f2c",
+        "android_client_info": {
+          "package_name": "com.codingblocks.trentiondevelopment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330490166055-777nju703i4g9bjpcdqsvvjrji077enj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingblocks.trentiondevelopment",
+            "certificate_hash": "44aa36a198f3d49494a7c9307b0474dd518c7832"
+          }
+        },
+        {
+          "client_id": "330490166055-n0vr8r91npq0l4q6fgjvcjfqhogppdac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8_R604E-I1fASDMVnNRD7A1Fy8i8qpQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330490166055-n0vr8r91npq0l4q6fgjvcjfqhogppdac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
